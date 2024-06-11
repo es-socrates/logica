@@ -1,6 +1,6 @@
 ![Lógica](https://thumbs.odycdn.com/a6aa34b38d0972a49f85ff45e9ca7e2b.webp)
 
-# Ejercicios básicos para aprender lógica de la programación
+# Ejercicios para aprender lógica de la programación
 ### En este repositorio encontrarás ejercicios para aprender lógica de la programación utilizando el software Flowgorithm.
 > #### Puedes seguir contenido variado en mi canal en **[Odysee](https://odysee.com/@socrates:f)**.
 
@@ -11,8 +11,8 @@
 * Este repositorio también sirve como hoja de ruta para aprender y estudiar la lógica de la programación.
 * Si quieres encontrar más recursos sobre programación únete al servidor en **[Discord](https://discord.gg/tda7eJMAz7)**
 
-## ![https://bento.me/socrates](https://thumbs.odycdn.com/b171656fb3431de8e7160962229e114c.webp) Sócrates.
-### Team at Odysee.com - Global Coordinator, DB, IT. Streamer and content creator at Odysee. I talk about things. #Bitcoin Lover 🐇.
+## Sócrates
+### Team at Odysee.com - Global Coordinator, DB, IT. Streamer and content creator at Odysee.
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/tda7eJMAz7)
 [![Sígueme en X](https://img.shields.io/twitter/follow/es_socrates?style=social)](https://x.com/es_socrates)
