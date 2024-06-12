@@ -12,7 +12,7 @@ En este primer ejercicio vamos a crear un algoritmo para determinar si una usuar
 
 # Creando el programa
 
-## Se usará el software Flowgorithm para crear el diagráma de flujo. Las imágenes estarán disponible en el paso a paso.
+### Se usará el software Flowgorithm para crear el diagráma de flujo. Las imágenes estarán disponible en el paso a paso.
 
 * Paso 1: Para comenzar debemos declarar una variable siguiendo la estructura del algoritmo. La variable sera "nacimientoUsuario". Esta variable será declara con el valor Entero (Integer).
 
@@ -54,5 +54,9 @@ El programa evaluará la condición y determinará si la edad del usuario (nacim
 * Las variables no tiene espacios entre palabras. Es incorrecto y puede causar un error en el programa.
 * Las condicional determinará si el usuario puede entrar o no a la página web. La condición (if) es false o true.
 * Si te fijas en el algoritmo, la ruta siempre fue crear una variable y luego asignar un valor, crear una condición para determinar el resultado de esas variables y finalmente obtener un resultado.
+
+### Como dato extra: En Flowgorithm, si cambias la disposición de las ventanas podrás ver el código fuente del programa y las sintaxis.
+
+![sintaxis](https://thumbs.odycdn.com/154f9e875796e22a5b50213f5f3ca662.webp)
 
 > ¿Qué te ha parecido este ejercicio? Puedes jugar con diferentes valores para obtener diferentes resultados. Espero que hayas disfrutado el viaje.
