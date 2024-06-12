@@ -24,7 +24,7 @@ La elección del algoritmo adecuado para resolver un problema depende de múltip
 
 Aprender a diseñar y comprender algoritmos es una habilidad fundamental para cualquier persona que quiera dedicarse a la programación o a la informática. Hay recursos disponibles para aprender sobre algoritmos, como libros, cursos en línea y tutoriales.
 
-### Algunos ejemplos de algoritmos en la vida cotidiana:
+### Ejemplos de algoritmos en la vida cotidiana:
 
 * Una receta de cocina: Una receta de cocina es un algoritmo que describe los pasos necesarios para preparar un plato específico.
 * Las instrucciones para armar un mueble: Las instrucciones para armar un mueble son un algoritmo que describe los pasos necesarios para ensamblar las piezas del mueble.
