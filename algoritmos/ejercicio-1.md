@@ -31,7 +31,7 @@ En este primer ejercicio vamos a crear un algoritmo para determinar si una usuar
 
 ![edadUsuario](https://thumbs.odycdn.com/79bdb0409bf723f8d736fd1020c1bebe.webp)
 
-* Paso 9: Crear una condición para determinar edad del usuario. Esta condición debe ser: edadUsuario >= edadCarnetLegal.
+* Paso 9: Crear una condición para determinar la edad del usuario. Esta condición debe ser: edadUsuario >= edadCarnetLegal.
 
 ![condición](https://thumbs.odycdn.com/9d00105b0a578d34a3360d3b76cda443.webp)
 
@@ -40,7 +40,7 @@ En este primer ejercicio vamos a crear un algoritmo para determinar si una usuar
 ![Salida true](https://thumbs.odycdn.com/d68f2af1cc7dc98d0826b08ef63fecc9.webp)
 
 * Paso 11: Crear una salida en la rama false de la condición con la expresión "John Doe no tiene la edad legal para entrar en la página web". La expresión debe ser en comillas.
-* Paso 12: Ejecutar el programa con el botón play del software. Si todo ha salido bien la consola mostrará información en la salida.
+* Paso 12: Ejecuta el programa con el botón play del software. Si todo ha salido bien la consola mostrará información en la salida.
 
 !Listo! Automáticamente podrás ver en consola el resultado basado en los datos del algoritmo. Puedes obtener un resultado diferente si cambias los datos de la variable de "nacimientoUsuario" para que el programa cambie la respuesta.
 
