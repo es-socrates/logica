@@ -59,4 +59,4 @@ El programa evaluará la condición y determinará si la edad del usuario (nacim
 
 ![sintaxis](https://thumbs.odycdn.com/154f9e875796e22a5b50213f5f3ca662.webp)
 
-> ¿Qué te ha parecido este ejercicio? Puedes jugar con diferentes valores para obtener diferentes resultados. Espero que hayas disfrutado el viaje.
+> ¿Qué te ha parecido el ejercicio? Puedes probar con diferentes valores y obtener diferentes resultados. Espero que lo hayas disfrutado.

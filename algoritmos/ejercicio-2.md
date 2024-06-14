@@ -40,4 +40,4 @@
 
 ![código](https://thumbs.odycdn.com/af2754045a9cac69b16b461d232bb8c8.webp)
 
-> ¿Qué te ha parecido este ejercicio? Puedes jugar con diferentes valores para obtener diferentes resultados. Espero que hayas disfrutado el viaje.
+> ¿Qué te ha parecido el ejercicio? Puedes probar con diferentes valores y obtener diferentes resultados. Espero que lo hayas disfrutado.
