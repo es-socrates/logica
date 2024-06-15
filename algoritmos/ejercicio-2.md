@@ -4,7 +4,7 @@
 
 # Creando el programa
 
-* Paso 1: Declara una variable siguiendo la estructura del algoritmo. La variable sera "nacimientoUsuario". Esta variable será declara con el valor Entero (Integer).
+* Paso 1: Declara una variable siguiendo la estructura del algoritmo. La variable sera "nacimientoUsuario". Esta variable será declarada con el valor Entero (Integer).
 
 ![variable](https://thumbs.odycdn.com/7ede637ae02b9da3e37287f2dc91cada.webp)
 

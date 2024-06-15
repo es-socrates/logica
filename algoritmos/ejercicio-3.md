@@ -8,11 +8,11 @@ Vamos a declarar variables para hacer operaciones matemáticas con números ente
 
 # Creando el programa
 
-* Paso 1: Declara una variable. La variable sera "cajaManzanas". Esta variable será declara con el valor Entero (Integer).
+* Paso 1: Declara una variable. La variable sera "cajaManzanas". Esta variable será declarada con el valor Entero (Integer).
 * Paso 2: Asigna el valor a la variable "cajaManzanas" con la expresión 20.
-* Paso 3: Declara una variable. La variable sera "cajaPeras". Esta variable será declara con el valor Entero (Integer).
+* Paso 3: Declara una variable. La variable sera "cajaPeras". Esta variable será declarada con el valor Entero (Integer).
 * Paso 4: Asigna el valor a la variable "cajaPeras" con la expresión 25.
-* Paso 5: Declara una variable. La variable sera "sumaFrutas". Esta variable será declara con el valor Entero (Integer).
+* Paso 5: Declara una variable. La variable sera "sumaFrutas". Esta variable será declarada con el valor Entero (Integer).
 * Paso 6: Asigna el valor a la variable "sumaFrutas" con la expresión "cajaManzanas + cajaPeras".
 * Paso 7: Ejecuta el programa con el botón play del software. Si todo ha salido bien el programa deberá darte el resultado de la suma = 45.
 
@@ -24,11 +24,11 @@ El ejercicio de variables se hará pero con números reales. Los números reales
 
 # Creando el programa
 
-* Paso 1: Declara una variable. La variable sera "precioManzana". Esta variable será declara con el valor Real (float).
+* Paso 1: Declara una variable. La variable sera "precioManzana". Esta variable será declarada con el valor Real (float).
 * Paso 2: Asigna el valor a la variable "precioManzana" con la expresión 1.20.
-* Paso 3: Declara una variable. La variable sera "precioPera". Esta variable será declara con el valor Real (float).
+* Paso 3: Declara una variable. La variable sera "precioPera". Esta variable será declarada con el valor Real (float).
 * Paso 4: Asigna el valor a la variable "precioPera" con la expresión 0.90.
-* Paso 5: Declara una variable. La variable sera "sumaPrecio". Esta variable será declara con el valor Real (float).
+* Paso 5: Declara una variable. La variable sera "sumaPrecio". Esta variable será declarada con el valor Real (float).
 * Paso 6: Asigna el valor a la variable "sumaPrecio" con la expresión "precioManzana + precioPera".
 * Paso 7: Ejecuta el programa con el botón play del software. Si todo ha salido bien el programa deberá darte el resultado de la suma = 2.1.
 
@@ -42,11 +42,11 @@ En este ejercicio vamos a darle nombre a las frutas que hemos estado sumando, as
 
 # Creando el programa
 
-* Paso 1: Declara una variable. La variable sera "FrutaRoja". Esta variable será declara con el valor tipo String (cadena).
+* Paso 1: Declara una variable. La variable sera "FrutaRoja". Esta variable será declarada con el valor tipo String (cadena).
 * Paso 2: Asigna el valor a la variable "FrutaRoja" con la expresión "Manzana". La expresión debe tener comillas porque es un valor tipo String.
-* Paso 3: Declara una variable. La variable sera "frutaVerde". Esta variable será declara con el valor tipo String (cadena).
+* Paso 3: Declara una variable. La variable sera "frutaVerde". Esta variable será declarada con el valor tipo String (cadena).
 * Paso 4: Asigna el valor a la variable "frutaVerde" con la expresión "Pera". La expresión debe tener comillas porque es un valor tipo String.
-* Paso 5: Declara una variable. La variable sera "listaFrutas". Esta variable será declara con el valor tipo String (cadena).
+* Paso 5: Declara una variable. La variable sera "listaFrutas". Esta variable será declarada con el valor tipo String (cadena).
 * Paso 6: Asigna el valor a la variable "listaFrutas" con la expresión "La lista de frutas es: " & frutaRoja & " y " &frutaVerde.
 * Paso 7: Ejecuta el programa con el botón play del software. Si todo ha salido bien el programa deberá mostrar la lista de frutas.
 

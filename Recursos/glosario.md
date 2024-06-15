@@ -33,4 +33,4 @@
 * Recursión: Técnica de programación en la que una función se llama a sí misma.
 * Tipos de datos abstractos: Tipos de datos que definen operaciones sin especificar cómo se implementan.
 
-Nota: Este glosario no es exhaustivo y solo cubre algunos de los términos básicos e intermedios de programación. Hay muchos otros conceptos importantes que aprenderás a medida que profundices en tu educación en programación.
+**Nota:** Este glosario no es exhaustivo y solo cubre algunos de los términos básicos e intermedios de programación. Hay muchos otros conceptos importantes que aprenderás a medida que profundices en tu educación en programación.
